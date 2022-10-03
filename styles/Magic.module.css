@@ -1,0 +1,13 @@
+.image_wrapper {
+  width: 100%;
+  display: grid;
+  place-items: center;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}
